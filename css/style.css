@@ -166,9 +166,17 @@ h4 {
     text-shadow: var(--text-shadow);
 }
 
+h5 {
+    padding:2rem 9%;
+    font-size: 1.5rem;
+    color:var(--light-color);
+    line-height: 1.8;
+}
+
 .dt-programm {
     display: flex;
-    flex-direction: row;
+    align-items: center;
+    flex-direction: column;
 }
 
 
